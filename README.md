@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sannasinne/typemaster-pre-launch-landing-page)
-- Live Site URL: [Add live site URL here](https://sannasinne.github.io/typemaster-pre-launch-landing-page/)
+- Solution URL: [https://github.com/sannasinne/typemaster-pre-launch-landing-page](https://github.com/sannasinne/typemaster-pre-launch-landing-page)
+- Live Site URL: [https://sannasinne.github.io/typemaster-pre-launch-landing-page/](https://sannasinne.github.io/typemaster-pre-launch-landing-page/)
 
 ## My process
 
