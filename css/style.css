@@ -1,5 +1,5 @@
 /* -----------------------
-------Basic styles--------
+----- Basic styles -------
 ------------------------*/
 
 *, *::before, *::after {
@@ -34,5 +34,34 @@ h1 {
 
 
 /* -----------------------
-------            --------
+----- Button styles ------
 ------------------------*/
+
+button {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: var(--dark-blue);
+  text-transform: uppercase;
+  line-height: 2.6rem;
+  background-color: var(--light-blue);
+  border: none;
+  padding: 2rem 2.6rem;
+  border-radius: 1rem;
+  display: block;
+  transition: all .4s ease-in-out;
+  cursor: pointer;
+}
+
+button:hover {
+  color: var(--white);
+  background-color: var(--dark-blue);
+}
+
+.orange {
+  color: var(--white);
+  background-color: var(--orange);
+}
+
+.orange:hover {
+  background-color: var(--light-orange);
+}
